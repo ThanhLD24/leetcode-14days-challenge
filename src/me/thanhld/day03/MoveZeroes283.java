@@ -1,8 +1,10 @@
-package me.thanhld.day3;
+package me.thanhld.day03;
 
 import java.util.Arrays;
 
 public class MoveZeroes283 {
+
+    // duyet duoi
     public static void moveZeroes(int[] nums) {
         int i = 0;
         int j = 1;
